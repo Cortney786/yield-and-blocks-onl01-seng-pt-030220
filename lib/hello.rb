@@ -9,7 +9,8 @@ end
 
 # call your method here!
 
-array 
-elseputs "Hey! No block was given!"
-end 
+  array 
+else
+   puts "Hey! No block was given!"
+  end 
 end 
